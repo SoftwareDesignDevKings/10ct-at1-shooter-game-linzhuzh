@@ -133,4 +133,4 @@ class Player:
         self.shoot_toward_position(enemy.x, enemy.y)
 
     def add_xp(self, amount):
-        self.xp += amount
+        self.xp += amount 
